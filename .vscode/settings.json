@@ -1,3 +1,4 @@
 {
-    "tabnineSelfHostedUpdater.serverUrl": "www.google.com"
+    "tabnineSelfHostedUpdater.serverUrl": "www.google.com",
+    "editor.cursorBlinking": "smooth"
 }
